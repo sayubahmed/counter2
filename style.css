@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+H1{
+width: 120px;
+height: 40px;
+margin: 70px auto;
+background-color: rgb(40, 40, 70);
+color: white;
+}
+.display{
+    width: 150px;
+    height: 24px;
+    border: 2px solid;
+    margin: 70px auto;
+  
+}
+
+
+
+.btn{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin: 30px auto;
+   
+
+}
+.btn1{
+    width: 30px;
+    background-color: rgb(15, 48, 15);
+    color: white;
+    box-shadow: 2px 2px;
+    margin-right: 20px;
+}
+.btn3{
+    width:30px ;
+    background-color: rgb(172, 19, 19);
+    color: white;
+    margin-left: 20px;
+    box-shadow: 2px 2px;
+}
+.btn2{
+    background-color: rgb(226, 215, 215);
+    box-shadow: 2px 2px;
+}
+.div{
+    border: 2px solid;
+    width: 250px;
+    margin: 100px auto;
+}
+.a{
+    text-align: center;
+    
+    
+}
